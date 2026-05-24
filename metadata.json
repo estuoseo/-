@@ -1,0 +1,6 @@
+{
+  "name": "다회용컵 순환 시스템 '리필로드' 대시보드",
+  "description": "다회용컵 반납 및 쓰레기 오염 상태를 모니터링하기 위한 실시간 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
